@@ -1,0 +1,2 @@
+# duncan
+trabajo de practica
